@@ -19,12 +19,7 @@ Um jogo 2D plataforma emocionante desenvolvido com **Phaser 3** e JavaScript.
 
 ## 🚀 Como Iniciar o Jogo
 
-### Opção 1: Direto do Navegador (Mais Simples)
-1. Localize o arquivo `index.html` na pasta do projeto
-2. Clique duas vezes no arquivo ou arraste-o para o navegador
-3. O jogo carregará automaticamente
-
-### Opção 2: Com Live Server (Recomendado para Desenvolvimento)
+### Com Live Server
 1. Abra a pasta do projeto no VS Code
 2. Instale a extensão "Live Server" (se ainda não tiver)
 3. Clique com botão direito em `index.html`
